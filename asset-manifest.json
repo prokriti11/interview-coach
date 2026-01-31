@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/interview-coach/static/css/main.39fdb833.css",
+    "main.js": "/interview-coach/static/js/main.942c4dfa.js",
+    "index.html": "/interview-coach/index.html",
+    "main.39fdb833.css.map": "/interview-coach/static/css/main.39fdb833.css.map",
+    "main.942c4dfa.js.map": "/interview-coach/static/js/main.942c4dfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39fdb833.css",
+    "static/js/main.942c4dfa.js"
+  ]
+}
