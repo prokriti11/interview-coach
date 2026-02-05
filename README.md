@@ -66,6 +66,3 @@ npm run build
 - Web Speech API
 - Lucide Icons
 
-## Author
-
-Built with ❤️ using Claude AI
